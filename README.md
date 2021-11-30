@@ -1,2 +1,2 @@
 # Tablaperiodica
-Ejercicio de table periodica para hackademy
+Ejercicio de tabla periodica para hackademy
